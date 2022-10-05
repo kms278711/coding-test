@@ -1,4 +1,4 @@
-package inflearn.String.mine;
+package inflearn.Array.mine;
 
 import java.util.Scanner;
 
