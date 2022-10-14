@@ -1,4 +1,4 @@
-package inflearn.twoPointers.mine;
+package inflearn.TwoPointers.mine;
 
 import java.util.Scanner;
 

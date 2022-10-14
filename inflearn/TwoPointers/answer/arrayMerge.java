@@ -1,4 +1,4 @@
-package inflearn.twoPointers.answer;
+package inflearn.TwoPointers.answer;
 
 import java.util.ArrayList;
 import java.util.Scanner;
