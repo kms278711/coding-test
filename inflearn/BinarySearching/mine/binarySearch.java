@@ -1,4 +1,4 @@
-package inflearn.Searching.mine;
+package inflearn.BinarySearching.mine;
 
 import java.util.Arrays;
 import java.util.Scanner;
