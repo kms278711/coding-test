@@ -1,4 +1,4 @@
-package inflearn.Recursive;
+package inflearn.Recursive.DFS;
 
 public class recursiveFunc {
     public void DFS(int n) {

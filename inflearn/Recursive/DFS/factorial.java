@@ -1,4 +1,4 @@
-package inflearn.Recursive;
+package inflearn.Recursive.DFS;
 
 public class factorial {
     public int DFS(int n) {
