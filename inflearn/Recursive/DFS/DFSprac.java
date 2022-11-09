@@ -1,14 +1,5 @@
 package inflearn.Recursive.DFS;
 
-class Node {
-    int data;
-    Node lt, rt;
-    public Node(int val) {
-        data=val;
-        lt = rt = null;
-    }
-}
-
 public class DFSprac {
     Node root;
     public void DFS(Node root) {
